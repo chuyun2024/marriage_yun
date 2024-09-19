@@ -1,8 +1,8 @@
 ---
-title: "My title"
-subtitle: "My subtitle if needed"
+title: "Marriage"
+subtitle: "This is my subtitle"
 author: 
-  - Rohan Alexander
+  - Yun Chu
 thanks: "Code and data are available at: LINK."
 date: today
 date-format: long
@@ -38,7 +38,7 @@ Some of our data is of penguins (@fig-marriage), from @palmerpenguins.
 
 ```{r}
 #| label: fig-marriage
-#| fig-cap: Bills of penguins
+#| fig-cap: marriage data
 #| echo: false
 
 data |> 
